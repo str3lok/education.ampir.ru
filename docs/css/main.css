@@ -2166,12 +2166,10 @@ button::-moz-focus-inner,
     margin-left: 91.66667%; } }
 
 .icon-reg {
-  width: 23px;
-  height: 20px; }
+  width: 23px; }
   @media (max-width: 1279px) {
     .icon-reg {
-      width: 14px;
-      height: 16px; } }
+      width: 14px; } }
 
 .mt-40 {
   margin-top: 40px; }
@@ -2361,7 +2359,7 @@ header {
     -moz-transition: margin 0.2s;
     transition: margin 0.2s; }
     .header-box .btn .icon-reg {
-      margin-right: 21px; }
+      margin-right: 13px; }
   .header-box h1, .header-box .h1 {
     color: #fff;
     -webkit-transition: margin 0.2s, font-size 0.2s;
